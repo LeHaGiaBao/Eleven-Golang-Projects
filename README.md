@@ -7,6 +7,7 @@
 ## Here are the projects built using Golang:
 
 -    Simple Web Server
+-    CRUD API
 
 <div align="center">
   <img src="./golang.gif"/>
