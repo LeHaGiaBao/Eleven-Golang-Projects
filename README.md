@@ -16,3 +16,4 @@
 -    Email Verifier Tool With Golang
 -    AWS Lambda With Golang
 -    CRM with Golang Fiber
+-    HRMS with Golang Fiber
