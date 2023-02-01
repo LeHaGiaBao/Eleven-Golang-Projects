@@ -17,3 +17,4 @@
 -    AWS Lambda With Golang
 -    CRM with Golang Fiber
 -    HRMS with Golang Fiber
+-    Complete Serverless Stack
