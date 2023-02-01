@@ -18,3 +18,4 @@
 -    CRM with Golang Fiber
 -    HRMS with Golang Fiber
 -    Complete Serverless Stack
+-    AI Bot with Wolfram, Wit.ai and Golang
